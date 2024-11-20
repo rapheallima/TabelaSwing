@@ -32,7 +32,8 @@ Este projeto é uma aplicação desktop simples desenvolvida em Java utilizando 
 
 ## Capturas de Tela (Opcional)
 
-> Adicione imagens da aplicação aqui para ilustrar sua funcionalidade.
+![image](https://github.com/user-attachments/assets/b73d4abe-ce1a-4fb8-83a1-b41c7bbc5184)
+
 
 ## Estrutura do Projeto
 
