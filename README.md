@@ -30,7 +30,7 @@ Este projeto é uma aplicação desktop simples desenvolvida em Java utilizando 
 - **Validação de CPF Duplicado**: Garante que cada CPF seja único na tabela.
 - **Confirmação de Exclusão**: Evita exclusões acidentais com um prompt de confirmação.
 
-## Capturas de Tela (Opcional)
+## Capturas de Tela
 
 ![image](https://github.com/user-attachments/assets/b73d4abe-ce1a-4fb8-83a1-b41c7bbc5184)
 
